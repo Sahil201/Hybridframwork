@@ -1,5 +1,10 @@
 package utilities;
 
-public class waithelper {
+import org.openqa.selenium.json.JsonOutput;
 
+public class waithelper {
+    public void feature()
+    {
+
+    }
 }
